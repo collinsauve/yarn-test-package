@@ -1,3 +1,3 @@
 echo "install ran!"
-echo "install ran!" > ./install.log
+mkdir install
 read -n1 -p "Press any key to continue..."

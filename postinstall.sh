@@ -1,3 +1,3 @@
 echo "postinstall ran!"
-echo "postinstall ran!" > postinstall.log
+mkdir postinstall
 read -n1 -p "Press any key to continue..."
