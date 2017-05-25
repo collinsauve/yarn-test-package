@@ -1,1 +1,1 @@
-touch install.log
+echo "install ran!" > install.log

@@ -1,1 +1,1 @@
-touch postinstall.log
+echo "postinstall ran!" > postinstall.log

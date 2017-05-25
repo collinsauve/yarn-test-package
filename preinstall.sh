@@ -1,1 +1,1 @@
-touch preinstall.log
+echo "preinstall ran!" > preinstall.log
