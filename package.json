@@ -1,0 +1,16 @@
+{
+  "name": "yarn-test-package",
+  "version": "0.0.1",
+  "description": "Testing Yarn",
+  "scripts": {
+    "install": "preinstall.sh",
+    "postinstall": "postinstall.sh",
+    "preinstall": "preinstall.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinsauve/yarn-test.git"
+  },
+  "author": "Collin Sauve",
+  "license": "Apache"
+}
