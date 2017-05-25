@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "Testing Yarn",
   "scripts": {
-    "install": "install.js",
-    "postinstall": "postinstall.js",
-    "preinstall": "preinstall.js"
+    "install": "node install.js",
+    "postinstall": "node postinstall.js",
+    "preinstall": "node preinstall.js"
   },
   "repository": {
     "type": "git",
