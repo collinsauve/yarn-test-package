@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Testing Yarn",
   "scripts": {
-    "install": "preinstall.sh",
+    "install": "install.sh",
     "postinstall": "postinstall.sh",
     "preinstall": "preinstall.sh"
   },
