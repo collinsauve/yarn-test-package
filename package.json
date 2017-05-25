@@ -3,14 +3,17 @@
   "version": "0.0.1",
   "description": "Testing Yarn",
   "scripts": {
-    "install": "install.sh",
-    "postinstall": "postinstall.sh",
-    "preinstall": "preinstall.sh"
+    "install": "install.js",
+    "postinstall": "postinstall.js",
+    "preinstall": "preinstall.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/collinsauve/yarn-test.git"
   },
   "author": "Collin Sauve",
-  "license": "Apache"
+  "license": "Apache",
+  "dependencies": {
+    "mkdir": "0.0.2"
+  }
 }
